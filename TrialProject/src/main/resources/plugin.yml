@@ -1,0 +1,19 @@
+name: TrialPlugin
+version: 1.0
+main: me.slayz.Main
+author: SlayZBro
+
+
+commands:
+  start:
+    description: Teleports you to the arena
+    usage: /start
+  stats:
+    description: Opens a gui with your stats
+    usage: /stats
+  leave:
+    description: Teleports you outside the arena
+    usage: /leave
+  setlocation:
+    description: Sets location for the arena
+    usage: /setlocation
